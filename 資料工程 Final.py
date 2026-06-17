@@ -6,7 +6,7 @@ import queue
 import threading
 import json
 from ultralytics import YOLO
-import paho.mqtt.client as mqtt
+import paho.mqtt.client as mqtt 
 
 MODEL_PATH = "yolov10n.pt"  
 MQTT_BROKER = "localhost"
