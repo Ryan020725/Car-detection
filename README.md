@@ -23,12 +23,10 @@ Initializes a queue.Queue(maxsize=1), which is the specific mechanism required t
 
 ## Instructions
 1. **Setup**:
+   `pip install opencv-python `
    `pip install ultralytics numpy opencv-python `
-2. **Execute**:
-   Run `python lab12_nms_benchmark.py`.
-3. **Analyze**:
-   - Observe the `Post-process` time for YOLOv8 as you change the `conf` threshold.
-   - Compare it with YOLOv10's post-processing time.
+
+
   
 
 ## Expected output
