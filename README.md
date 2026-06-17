@@ -23,11 +23,12 @@ Initializes a queue.Queue(maxsize=1), which is the specific mechanism required t
 
 ## Instructions
 1. **Setup**:
+
    `pip install opencv-python`
    
    `pip install ultralytics numpy opencv-python `
 
-2. Execute: run `pip install ultralytics numpy opencv-python `
+3. Execute: run `Data_Engineering_Final.py `
 
 
   
